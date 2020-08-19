@@ -1,0 +1,28 @@
+.card {
+    margin : 2% ;
+}
+
+.spe {
+    padding-left: 27%;
+}
+
+#overall {
+    margin: 2%;
+}
+
+#In_group {
+    margin: 2%;
+}
+
+#signoutbtn {
+ margin-left: auto;
+}
+
+.image_custom_CAprofile{
+    width: 180px;
+    border: solid;
+}
+
+.cust_container_CAprofile{
+    padding: 2%;
+}
